@@ -40,6 +40,8 @@ The dataset has 6812 rows and 23 columns.
  2. Suppose you're planning a vacation to Madrid and hoping for the warmest temperature. Which month might you plan to travel?
  3. On which date in the sample did Madrid see the fastest wind gust? What was the weather like on that day?
  4. How does the average visibility (Km) compare for clear days vs. foggy days?
+ - Conclusion
+ - Important Information about Madrid
  
  [Notebook](https://github.com/khushiyadav2022/Madrid-daily-weather-analysis/blob/b47da37a91a85eea1f387f64996d56c3f133354f/madrid-daily-weather-analysis.ipynb)
  
