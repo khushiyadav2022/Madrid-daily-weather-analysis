@@ -41,7 +41,7 @@ The dataset has 6812 rows and 23 columns.
  3. On which date in the sample did Madrid see the fastest wind gust? What was the weather like on that day?
  4. How does the average visibility (Km) compare for clear days vs. foggy days?
  
- [Notebook]()
+ [Notebook](https://github.com/khushiyadav2022/Madrid-daily-weather-analysis/blob/b47da37a91a85eea1f387f64996d56c3f133354f/madrid-daily-weather-analysis.ipynb)
  
  **Conclusion**
 - The dataset contains weather information for 6812 rows and 23 columns, with temperature ranging from -10 to 41 degrees Celsius, and maximum wind speed and gust speed of 182 km/h and 103 km/h, respectively.
